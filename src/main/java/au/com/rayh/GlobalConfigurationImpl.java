@@ -42,7 +42,7 @@ import java.util.ArrayList;
 import java.util.logging.Logger;
 
 import edu.umd.cs.findbugs.annotations.CheckForNull;
-import javax.servlet.ServletException;
+import jakarta.servlet.ServletException;
 
 /**
  * Stores global configuration for XCode.
